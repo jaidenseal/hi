@@ -1,0 +1,6 @@
+#taking input as a string
+str = "pythonpool"
+
+locals()[str] = 5000
+print(pythonpool)
+first_name = "jaiden" print("Hello {}, hope you're well!"
